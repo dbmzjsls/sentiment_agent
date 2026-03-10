@@ -1,0 +1,13 @@
+﻿页码,评论内容,分析结果
+1,审美在线,"{
+  ""sentiment"": ""positive"",
+  ""confidence"": 0.95,
+  ""reason"": ""表达对审美品味的肯定""
+}"
+1,省吃俭用的领克08车主,"```json
+{
+  ""sentiment"": ""neutral"",
+  ""confidence"": 0.85,
+  ""reason"": ""陈述消费行为，无明显情感倾向""
+}
+```"
